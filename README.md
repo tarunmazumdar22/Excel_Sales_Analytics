@@ -1,4 +1,4 @@
-# Excel_Sales_Analytics
+# Atliq Hardwares Excel Sales Analytics
 
 ## Sales Report :
 
