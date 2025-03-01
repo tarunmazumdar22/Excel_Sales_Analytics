@@ -9,7 +9,7 @@
 
     **2.** Compare _[market performance and sales targets](https://github.com/tarunmazumdar22/Excel_Sales_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_.
 
-- **Purpose of sales analytics:** Enable businesses to track and evaluate sales performance effectively..
+- **Purpose of sales analytics:** Enable businesses to track and evaluate sales performance effectively.
 
 - **Importance of analyzing sales data:** Identify sales trends and track key performance indicators (KPIs).
 
